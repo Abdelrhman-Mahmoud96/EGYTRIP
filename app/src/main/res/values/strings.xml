@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">EGYTRIP</string>
+    <string name="splash">WELLCOM TO EYGPT</string>
+    <string name="appName">EGYTRIP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="empty"></string>
+
+    <!--Cairo cafe-->
+    <string name="fishawy">If you\'re looking to dive into the historical locations of Cairo and stock up on a few souvenirs, then this is the cafe to visit.
+        Located in El Khan el Khaleeli, El Fishawy Cafe is one of the oldest in town; it has been hosting customers for decades.</string>
+    <string name="mahfoz">Fancy some good live music while savoring your meal?
+Naguib Mahfouz cafe entertains its guests with live performances creating a buzzing lively atmosphere with pure oriental dishes.</string>
+    <string name="kafien">As you may have noticed, Kafein isn\'t your average place.
+In this cafe, they\'d rather focus on their coffee and art. They offer a wide collection of paintings and art projects for you to admire and purchase.</string>
+    <string name="cornish">Cafe Corniche is right by the Nile river in the InterContinental Semiramis Hotel.
+Their high-end service will mirror Egypt's hospitality and good food. </string>
+    <string name="LeftBank">This urban space in the heart of Cairo is fresh, trendy, and serves eye-pleasing, mouthwatering dishes.
+At Left Bank, you could enjoy the scenery of the Nile while sipping on your favorite beverage.</string>
+    <!--Cairo hotels-->
+    <string name="LePassage">Le Passage Cairo Hotel and Casino is located in Heliopolis, an elegant business and residential district in Cairo and it is considered one of the safest area in town.</string>
+    <string name="Kempinski">Situated in Cairo’s affluent Garden City district, Kempinski Nile Hotel offers luxurious rooms on the shores of the Nile RiverEach room is fitted with free Wi-Fi, free Minibar, Flat Screen TVs with satellite Channels, Free Movie Library, 24/7 Butler Service, Complimentary Tea and Coffee throughout the day.</string>
+    <string name="Sonesta">The Sonesta Cairo\'s 409 spacious guest rooms and suites offer a variety of luxurious amenities. A room on the executive floors offer exclusive lounges and 24-hour concierge service. The poolside bar and full-service spa with a Turkish steam bath are heavens for relaxation.</string>
+    <string name="Almasa">You are invited to escape the noise and the pollution and to enjoy the peaceful atmosphere on Al Masa spectacular heights. While sitting under a pergola surrounded by the stunning nature enjoy beverage of choice that are served to match the moment. It is the spot for a quiet, contemplative moment where you can enjoy the tranquility of the environment.</string>
+    <string name="Sofitel">Perched on the quiet Southern tip of El Gezirah island, close to the city center and Zamalek. 433 luxurious rooms including 50 suites, stunning ballroom perfect for weddings, flexible meeting rooms and exquisite restaurants and bars.</string>
+    <!--Cairo restaurants-->
+
+    <string name="andria">This is a personal favourite of mine. It takes after the famous Marryoteya one and the food is to die for. The grilled chicken, chicken liver and Kobeba are a must try! You can get your name customized in a sand bottle, watch your bread being baked the old-school way over the coals or take a donkey ride. Yes, you read that right.</string>
+    <string name="Piccolo">This is one of Le Pacha boat’s classics. They serve authentic Italian food the right way! The restaurant design imitates the Piazza San Carlo in Italy which makes it quite unique. You can even write a note or make a drawing on the walls, that are already covered in writings from previous customers, and leave a memory that will last a lifetime.</string>
+    <string name="AbouElSid">This is a Cairo classic. Make sure you head to the original branch in Zamalek and transport back to Egypt in the 1940s. Abou El Sid offers a full blown Egyptian culinary experience ranging from Molokheya with rabbits to pigeons to Om Ali.</string>
+
+    <!--Cairo shops-->
+
+    <string name="el3rb">Mall of Arabia is Egypt\'s Biggest Mall in terms of space and number of stores</string>
+    <string name="mallmasr">Mall of Egypt is a shopping mall in Cairo, Egypt, owned and operated by the Majid Al Futtaim Group, located on Wahat Road. The mall houses major department stores, fashion, lifestyle, sports, electronics, home furnishing outlets. With direct access to Wahat Road, the mall includes 6,500 car parking spaces.</string>
+    <string name="District">The District is a cutting-edge retail complex, with outdoor experience, containing restaurants, coffee shops, fast food, entertainment, kids area, fashion, retail, corporate and admin offices, club and hyper market.</string>
+
+    <!--Cairo history-->
+    <string name="pyramid">The Pyramids of Giza are Cairo\'s number one half-day trip and a must-do attraction on everyone\'s itinerary. Right on the edge of the city, on the Giza Plateau, these fourth dynasty funerary temples have been wowing travelers for centuries and continue to be one of the country\'s major highlights. Despite the heat, the dust, and the tourist hustle, you can't miss a trip here.</string>
+    <string name="cairomus">The museum was founded in 1857 by French Egyptologist August Mariette and moved to its current home — in the distinctive powder-pink mansion in Downtown Cairo — in 1897. Yes, the collection is poorly labeled and not well set out due to limits of space (and only a fraction of its total holdings are actually on display). It also suffers currently with some empty cases due to artifacts having been transferred to the GEM, but you still can\'t help being impressed by the sheer majesty of the exhibits.</string>
+    <string name="Citadel">In a commanding location at the foot of the Mokattam Hills, Cairo\'s citadel was built by Saladin in 1176. The original structure he laid out has long disappeared except for the eastern outer walls, but a legacy of rulers has made their own additions here.
+The Mosque of Muhammad Ali is the most famous monument and the main reason for visiting. Nicknamed the "Alabaster Mosque," its white stone and tall, disproportionately slender minarets are one of Cairo's great landmarks. The other big reason to come up here are the views across the city,head to the Gawhara Terrace for the best panorama in town.</string>
+    <string name="Khalili">Khan el-Khalili is one of the world\'s great shopping experiences. This Middle Eastern souq (bazaar) is a labyrinthine collection of skinny alleyways established as a shopping district in AD 1400, which still rings with the clang of metal workers and silversmiths.</string>
+    <string name="Downtown">If you want to capture a sense of late 19th-century Cairo, when the city was nicknamed the "Paris of the East," take a stroll through the downtown district with your gaze diverted up at the car-exhaust blackened architecture rather than on the bedlam at street level. The entire area is chock-a-block stuffed with gorgeous but crumbling Belle Epoque buildings, which must have looked staggeringly glamorous when they were first built. Some of the best remnants are around Midan Talaat Harb.</string>
+
+
+    <!--Alex cafe-->
+    <string name="carlos">Cuisine:
+Cafe, Eastern European, Armenian</string>
+    <string name="fresca">Cuisine
+Italian, Japanese, Pizza, Cafe, Mediterranean</string>
+    <string name="Delices">Cuisine
+Cafe, European, Arabic</string>
+
+    <!--Alex hotels-->
+    <string name="alexfour">Set in an architectural landmark, Hotel San Stefano features a fashionable resort setting with a private sandy beach and overlooking the Mediterranean Sea. It features a full-service spa, outdoor pool and restaurants with terraces. Guests can enjoy free WiFi throughout the property and in the guest rooms.
+All rooms at the Four Seasons Hotel Alexandria At San Stefano have a balcony, some of them including Mediterranean Sea views. A mini-bar, TV and air conditioning are all standard facilities.</string>
+    <string name="Steigenberge">Conveniently located in Alexandria’s business district and overlooking the bay and yacht club, this hotel features an elegant setting influenced by the architecture and interior design of early modernism. Free WiFi is available throughout the property.
+Steigenberger Cecil Hotel Alexandria has spacious rooms with French beds, chandeliers and carpeted floors and furnishing that match in patterns and colors to create an artistically refreshing setting.</string>
+    <string name="hiliton">On site of Green Plaza Mall, this Hilton is only steps away from 370 shops. With two outdoor pools, it also features a sun deck and fitness center. Alexandria Al Nozha Airport is 10 minutes’ drive away.
+The Art Deco-style rooms at the Hilton Alexandria Green Plaza Hotel provide plenty of space. Each air-conditioned room includes a work desk, mini-bar, coffee making facilities, satellite flat screen TV and a Hilton Radio Alarm Clock.</string>
+    <string name="plaza">The Grand Plaza Hotel is a hotel set in the heart of Alexandria. This hotel offers a 24-hour front desk. Guests can enjoy fee WiFi throughout the property.
+All rooms in the hotel are equipped with satellite TV channels on the 32-inch HDTV. There is also a mini bar, in room safe air-conditioning. Relax with a cup of tea/coffee prepared in your room or select one of the many refreshments available from the mini-bar. The private bathroom features a walk-in rain shower.</string>
+    <string name="royal">Located in Alexandria, 4.3 km from Alexandria Zoo, Royal Crown Hotel features views of the sea. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The property has a shared lounge, luggage storage space and currency exchange for guests.</string>
+
+    <!--Alex restaurants-->
+    <string name="china">Cuisine served: Chinese, Thai, and Asian Fusions
+ Stunning views of the sea and the harbor, with great weather all year long that can get chilly at night</string>
+    <string name="sangiovany">Cuisine Served: Seafood with a Euro-Mediterranean twist
+ Scenic views over the sea, and Stanly bridge, that’s a place in style, it hasn’t changed since it has first opened.</string>
+    <string name="greek">Cuisine Served: Seafood with a Greek twist
+ Amazing view of the old port, and the Citadel, serving the freshest seafood in Alexandria.</string>
+    <string name="Calithea">Cuisine Served: Greek
+ This place was always able to maintain its superior quality, serving the freshest seafood ever with reasonable prices. The fried calamari is a must eat!.</string>
+    <string name="santa">Cuisine Served: Mediterranean
+ The atmosphere, service, food quality, and above all the pianist who plays every night.</string>
+
+    <!--Alex shops-->
+    <string name="alexcity">City Centre Alexandria is located in Alexandria, Egypt, where it opened in January 2003. It was developed and is managed by Majid Al Futtaim Properties.</string>
+    <string name="green">Open-air mall with stores for clothing and household goods, plus casual dining and a movie theater.</string>
+    <string name="deeb">A local hub for shopping, this enclosed complex features multiple floors and a kids’ area.</string>
+
+    <!--Alex history-->
+    <string name="serapeum">Dedicated to Serapis and built by Ptolemy III, the temple of Serapeum is one of the several religious centers in Alexandria. Destroyed by the Romans in 391, a few of the original pieces are left on the site such as the Pompey’s Pillar, which is surrounded by two big sphinxes. In the past the temple was also one of the most important annexes of the Great Library of Alexandria. The Serapeum is definitely worth a visit due to its historical importance and the beautiful location.</string>
+    <string name="library">Built in 2002 as a memorial to one of the largest and most important libraries in antiquity, the Royal Library of Alexandria. The old library was burnt down and with the fire many of its books were destroyed. The modern library may not be as important and rich as the previous one, yet it’s still a large library and a major cultural center including three museums, four art galleries, a planetary and a laboratory where they rescue and fix old manuscripts. They also have a good section of children’s books which can be fun to explore if you’re on holiday with your kids</string>
+    <string name="alexmus">Inaugurated in 2003 and located in a restored Italian palace that used to house the United States consulate, this museum contains more than 1,800 artifacts that narrate the history of Alexandria. Most of them come from other Egyptian museums. Visitors will be able to admire works from the Hellenistic period, including a varied range of objects such as jewels, weapons and coins.</string>
+    <string name="Montaza">Montaza Palace is a palace, museum and extensive gardens in the Montaza district of Alexandria, Egypt. It was built on a low plateau east of central Alexandria overlooking a beach on the Mediterranean Sea.
+Al Mandarah Bahri, Qism Montaza, Alexandria Governorate</string>
+    <string name="citadelofQaitbay">The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea coast, in Alexandria, Egypt. It was established in 1477 AD by Sultan Al-Ashraf Sayf al-Din Qa\'it Bay. The Citadel is situated on the eastern side of the northern tip of Pharos Island at the mouth of the Eastern Harbour.
+As Sayalah Sharq, Qesm Al Gomrok, Alexandria Governorate.</string>
+</resources>
